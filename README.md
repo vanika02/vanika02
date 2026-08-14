@@ -1,5 +1,4 @@
-<img src="https://waveify.onrender.com/api/typing/matrix?text=Hi%2C+I%27m+Vanika&speed=50&color=%23EAEFEF&backgroundColor=%23212121&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=false&cursorColor=%23000000&type=matrix&prompt=&repeat=false&glowEffect=false&soundEnabled=false" alt="Typing Animation">
-
+https://waveify.onrender.com/api/typing/matrix?text=Hi%2C+I%27m+Vanika&speed=50&color=%23EAEFEF&backgroundColor=%23212121&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=false&cursorColor=%23000000&type=matrix&prompt=&repeat=false&glowEffect=false&soundEnabled=false
 
 <p align="center">
   <strong>Python Backend Developer · Backend Systems · APIs · Testing</strong>
