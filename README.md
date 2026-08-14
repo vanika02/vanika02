@@ -53,18 +53,6 @@ A small ORM implementation built to understand how database abstractions work un
 
 ---
 
-## 🔓 Open Source
-
-### LiteLLM
-
-Contributed a fix to LiteLLM's Router streaming fallback behavior for tool-calling requests.
-
-Investigated how continuation prompts were injected during mid-stream fallback, identified the interaction with tool-calling context, implemented the fix, and added targeted regression tests for synchronous and asynchronous streaming paths.
-
-**Python · AsyncIO · Streaming · Tool Calling · pytest**
-
----
-
 ## 🛠️ Technical Skills
 
 ### Primary
