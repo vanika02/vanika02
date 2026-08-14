@@ -109,13 +109,24 @@ Multi-user service platform with role-based workflows, administration, professio
 
 <h2>📊 GitHub Activity</h2>
 
+<h2>📊 GitHub Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=vanika02&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=vanika02&theme=tokyonight&hide_border=true" width="48%" />
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=vanika02&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=vanika02&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vanika02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="70%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vanika02&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+  />
 </p>
 
 ---
