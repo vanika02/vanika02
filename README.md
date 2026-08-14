@@ -1,197 +1,46 @@
-# `> VANIKA DANGI`
+# 💫 About Me
 
-```text
-Python Backend Developer
-Backend Systems · APIs · Testing · Open Source
-```
+**Hi, I'm Vanika Dangi**
 
-> Building backend systems in Python and understanding what happens
-> underneath the abstractions.
+`Python Backend Developer` · `Backend Systems` · `APIs` · `Testing`
 
-```text
-[ SYSTEM STATUS ]
-
-    Focus       : Python Backend Engineering
-    Working on  : Offline Converter
-    Exploring   : HTTP · APIs · Databases · Testing
-    Contributing: Open Source
-```
+> I build backend systems in Python with a focus on understanding the architecture underneath the abstractions.
 
 ---
 
-## `01 / FEATURED PROJECTS`
+## `✦` Featured Projects
 
-### `> offline_converter`
-
-**Python · OOP · pytest · File Processing**
-
-[github.com/vanika02/offline_converter](https://github.com/vanika02/offline_converter)
-
-```text
-Modular file-conversion system built around converter abstractions
-and a dispatch layer.
-
-- format-specific converters
-- input/output validation
-- custom exceptions
-- extensible converter dispatch
-- pytest-based testing
-```
+| `01` **Offline Converter**                                                                                                                                                                                                                                       | `02` **HTTP Server**                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Python · OOP · pytest**  <br><br>Modular file-conversion system built around converter abstractions and a dispatch layer. Includes validation, custom exceptions, and automated testing. <br><br>→ [Repository](https://github.com/vanika02/offline_converter) | **Python · Sockets · HTTP** <br><br>HTTP server built from scratch with TCP sockets, request parsing, response construction, routing, headers, and `Content-Length` handling. <br><br>→ [Repository](https://github.com/vanika02/http-server) |
+| `03` **Mini ORM**                                                                                                                                                                                                                                                | `04` **HouseholdApp**                                                                                                                                                                                                                         |
+| **Python · OOP · SQL** <br><br>Lightweight ORM implementation exploring database abstraction, models, queries, and object-oriented database interaction. <br><br>→ [Repository](https://github.com/vanika02/mini_orm)                                            | **Python · Flask · REST API** <br><br>Multi-user service platform with role-based workflows, administration, professional approval, service handling, and ratings. <br><br>→ [Repository](https://github.com/vanika02/HouseholdApp)           |
 
 ---
 
-### `> http-server`
+## `✦` Open Source
 
-**Python · TCP Sockets · HTTP**
+**LiteLLM** · `Python` `Streaming` `Tool Calling` `pytest`
 
-[github.com/vanika02/http-server](https://github.com/vanika02/http-server)
+> Fixed a Router streaming fallback issue affecting tool-calling requests. Investigated continuation-prompt injection across sync/async streaming paths and added targeted regression tests.
 
-```text
-HTTP server built from scratch to understand the fundamentals
-behind web servers and frameworks.
-
-- TCP socket communication
-- HTTP request parsing
-- HTTP response construction
-- routing
-- headers and request bodies
-- Content-Length handling
-```
+→ [View LiteLLM](https://github.com/BerriAI/litellm)
 
 ---
 
-### `> mini_orm`
+## `✦` Tech Stack
 
-**Python · OOP · Database Abstraction**
-
-[github.com/vanika02/mini_orm](https://github.com/vanika02/mini_orm)
-
-```text
-Small ORM implementation built to understand how database
-abstractions work underneath higher-level frameworks.
-```
+`Python` `FastAPI` `Flask` `SQLAlchemy` `PostgreSQL` `SQLite`
+`pytest` `Git` `GitHub` `Linux` `Docker` `HTTP` `TCP Sockets`
 
 ---
 
-### `> HouseholdApp`
+## `✦` Connect
 
-**Python · Flask · REST APIs · Database**
-
-[github.com/vanika02/HouseholdApp](https://github.com/vanika02/HouseholdApp)
-
-```text
-Multi-user service management platform with role-based workflows,
-administrative controls, professional approval, service handling,
-and database-backed application logic.
-```
+[LinkedIn](https://www.linkedin.com/in/vanika-d-660a36238/) · [GitHub](https://github.com/vanika02) · [Email](mailto:vanikadangi02@gmail.com)
 
 ---
 
-## `02 / OPEN SOURCE`
-
-### `> LiteLLM`
-
-[github.com/BerriAI/litellm](https://github.com/BerriAI/litellm)
-
-```text
-Fixed a Router streaming fallback issue affecting tool-calling
-requests.
-
-Investigated continuation-prompt injection across synchronous
-and asynchronous streaming paths, implemented the fix, and
-added targeted regression tests.
-```
-
-```text
-Python · AsyncIO · Streaming · Tool Calling · pytest
-```
-
----
-
-## `03 / STACK`
-
-```text
-LANGUAGES
-─────────
-Python
-SQL
-JavaScript
+<sub>「 Build · Understand · Test · Improve 」</sub>
 
 
-BACKEND
-───────
-Flask
-FastAPI
-REST APIs
-SQLAlchemy
-
-
-DATABASES
-─────────
-PostgreSQL
-SQLite
-
-
-TESTING
-───────
-pytest
-Unit Testing
-Mocking
-
-
-SYSTEMS
-───────
-HTTP
-TCP Sockets
-Request / Response Architecture
-
-
-TOOLS
-─────
-Git
-GitHub
-Linux
-Docker
-```
-
----
-
-## `04 / CURRENTLY WORKING ON`
-
-```text
-[x] Python backend development
-[x] Backend architecture
-[x] HTTP fundamentals
-[x] Automated testing
-[x] Open-source contribution
-
-[>] FastAPI
-[>] Docker
-[>] PostgreSQL
-[>] Production-oriented backend systems
-```
-
----
-
-## `05 / CONTACT`
-
-```text
-EMAIL    : vanikadangi02@gmail.com
-LINKEDIN : linkedin.com/in/vanika-d-660a36238
-GITHUB   : github.com/vanika02
-```
-
----
-
-```text
-$ whoami
-
-vanika
-
-$ cat philosophy.txt
-
-Build it.
-Understand it.
-Test it.
-Improve it.
-```
