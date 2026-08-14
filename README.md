@@ -109,8 +109,6 @@ Multi-user service platform with role-based workflows, administration, professio
 
 <h2>📊 GitHub Activity</h2>
 
-<h2>📊 GitHub Activity</h2>
-
 <p align="center">
   <img
     src="https://github-readme-stats.shion.dev/api?username=vanika02&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
