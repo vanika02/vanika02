@@ -1,8 +1,4 @@
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
-
----
-
-<h1 align="center">Hi 👋, I'm Vanika Dangi</h1>
+<h1>![Typing Animation](https://waveify.onrender.com/api/typing/matrix?text=Hi%2C+I%27m+Vanika&speed=50&color=%23EAEFEF&backgroundColor=%23212121&fontSize=20&fontFamily=monospace&width=400&height=60&cursor=false&cursorColor=%23000000&type=matrix&prompt=&repeat=false&glowEffect=false&soundEnabled=false)</h1>
 
 <p align="center">
   <strong>Python Backend Developer · Backend Systems · APIs · Testing</strong>
