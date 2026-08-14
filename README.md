@@ -1,18 +1,197 @@
-# 💫 About Me:
-Hi , I'm Vanika Dangi<br>Python Backend Developer · Backend Systems · APIs · Testing<br><br>I build backend systems in Python with a focus on understanding the architecture underneath the abstractions.
+# `> VANIKA DANGI`
 
+```text
+Python Backend Developer
+Backend Systems · APIs · Testing · Open Source
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vanika-d-660a36238/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32768025/vanika-dangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanikadangi02@gmail.com) 
+> Building backend systems in Python and understanding what happens
+> underneath the abstractions.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vanika02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vanika02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vanika02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```text
+[ SYSTEM STATUS ]
+
+    Focus       : Python Backend Engineering
+    Working on  : Offline Converter
+    Exploring   : HTTP · APIs · Databases · Testing
+    Contributing: Open Source
+```
 
 ---
-[![](https://komarev.com/ghpvc/?username=vanika02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01 / FEATURED PROJECTS`
+
+### `> offline_converter`
+
+**Python · OOP · pytest · File Processing**
+
+[github.com/vanika02/offline_converter](https://github.com/vanika02/offline_converter)
+
+```text
+Modular file-conversion system built around converter abstractions
+and a dispatch layer.
+
+- format-specific converters
+- input/output validation
+- custom exceptions
+- extensible converter dispatch
+- pytest-based testing
+```
+
+---
+
+### `> http-server`
+
+**Python · TCP Sockets · HTTP**
+
+[github.com/vanika02/http-server](https://github.com/vanika02/http-server)
+
+```text
+HTTP server built from scratch to understand the fundamentals
+behind web servers and frameworks.
+
+- TCP socket communication
+- HTTP request parsing
+- HTTP response construction
+- routing
+- headers and request bodies
+- Content-Length handling
+```
+
+---
+
+### `> mini_orm`
+
+**Python · OOP · Database Abstraction**
+
+[github.com/vanika02/mini_orm](https://github.com/vanika02/mini_orm)
+
+```text
+Small ORM implementation built to understand how database
+abstractions work underneath higher-level frameworks.
+```
+
+---
+
+### `> HouseholdApp`
+
+**Python · Flask · REST APIs · Database**
+
+[github.com/vanika02/HouseholdApp](https://github.com/vanika02/HouseholdApp)
+
+```text
+Multi-user service management platform with role-based workflows,
+administrative controls, professional approval, service handling,
+and database-backed application logic.
+```
+
+---
+
+## `02 / OPEN SOURCE`
+
+### `> LiteLLM`
+
+[github.com/BerriAI/litellm](https://github.com/BerriAI/litellm)
+
+```text
+Fixed a Router streaming fallback issue affecting tool-calling
+requests.
+
+Investigated continuation-prompt injection across synchronous
+and asynchronous streaming paths, implemented the fix, and
+added targeted regression tests.
+```
+
+```text
+Python · AsyncIO · Streaming · Tool Calling · pytest
+```
+
+---
+
+## `03 / STACK`
+
+```text
+LANGUAGES
+─────────
+Python
+SQL
+JavaScript
+
+
+BACKEND
+───────
+Flask
+FastAPI
+REST APIs
+SQLAlchemy
+
+
+DATABASES
+─────────
+PostgreSQL
+SQLite
+
+
+TESTING
+───────
+pytest
+Unit Testing
+Mocking
+
+
+SYSTEMS
+───────
+HTTP
+TCP Sockets
+Request / Response Architecture
+
+
+TOOLS
+─────
+Git
+GitHub
+Linux
+Docker
+```
+
+---
+
+## `04 / CURRENTLY WORKING ON`
+
+```text
+[x] Python backend development
+[x] Backend architecture
+[x] HTTP fundamentals
+[x] Automated testing
+[x] Open-source contribution
+
+[>] FastAPI
+[>] Docker
+[>] PostgreSQL
+[>] Production-oriented backend systems
+```
+
+---
+
+## `05 / CONTACT`
+
+```text
+EMAIL    : vanikadangi02@gmail.com
+LINKEDIN : linkedin.com/in/vanika-d-660a36238
+GITHUB   : github.com/vanika02
+```
+
+---
+
+```text
+$ whoami
+
+vanika
+
+$ cat philosophy.txt
+
+Build it.
+Understand it.
+Test it.
+Improve it.
+```
