@@ -1,16 +1,116 @@
 <h1 align="center">Hi 👋, I'm Vanika Dangi</h1>
-<h3 align="center">I'm a Python developer focused on building backend systems and understanding how they work underneath the abstractions.</h3>
 
-- 🔭 I’m currently working on [Offline Converter](https://github.com/vanika02/offline_converter)
-
-- 📫 How to reach me **vanikadangi02@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vanika-d-660a36238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanika-d-660a36238/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/32768025/vanika-dangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/32768025/vanika-dangi" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/vanika71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vanika71" height="30" width="40" /></a>
+<p align="center">
+  <strong>Python Backend Developer · Backend Systems · APIs · Testing</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  I build backend systems in Python with a focus on understanding the architecture underneath the abstractions.
+</p>
+
+---
+
+## 🔭 What I'm Working On
+
+Currently building **[Offline Converter](https://github.com/vanika02/offline_converter)** — a modular Python file-conversion system focused on clean architecture, converter dispatch, validation, custom exceptions, and automated testing.
+
+I'm also strengthening my backend engineering skills through systems projects and open-source contributions.
+
+---
+
+## ⭐ Featured Projects
+
+### 🔧 [Offline Converter](https://github.com/vanika02/offline_converter)
+
+**Python · OOP · pytest · File Processing**
+
+A modular file-conversion system built around converter abstractions and a dispatch layer.
+
+* Converter-based architecture
+* Input/output validation
+* Custom exception handling
+* Extensible dispatch system
+* Unit testing with pytest
+
+### 🌐 [HTTP Server](https://github.com/vanika02/http-server)
+
+**Python · TCP Sockets · HTTP**
+
+A lightweight HTTP server built from scratch to understand the fundamentals behind web servers and frameworks.
+
+* TCP socket communication
+* HTTP request parsing
+* HTTP response construction
+* Headers and request bodies
+* `Content-Length` handling
+* Routing and error handling
+
+### 🧱 [Mini ORM](https://github.com/vanika02/mini_orm)
+
+**Python · OOP · Database Abstraction**
+
+A small ORM implementation built to understand how database abstractions work underneath higher-level frameworks.
+
+---
+
+## 🔓 Open Source
+
+### LiteLLM
+
+Contributed a fix to LiteLLM's Router streaming fallback behavior for tool-calling requests.
+
+Investigated how continuation prompts were injected during mid-stream fallback, identified the interaction with tool-calling context, implemented the fix, and added targeted regression tests for synchronous and asynchronous streaming paths.
+
+**Python · AsyncIO · Streaming · Tool Calling · pytest**
+
+---
+
+## 🛠️ Technical Skills
+
+### Primary
+
+**Python · SQL · Git · Linux**
+
+### Backend
+
+**Flask · REST APIs · SQLAlchemy**
+
+### Databases
+
+**SQLite · PostgreSQL**
+
+### Testing
+
+**pytest · Unit Testing · Mocking**
+
+### Systems
+
+**HTTP · TCP Sockets · Request/Response Architecture**
+
+### Data & ML
+
+**Pandas · NumPy · scikit-learn · PyTorch**
+
+---
+
+## 📚 Currently Improving
+
+**FastAPI · Docker · PostgreSQL · Backend Architecture · Production Testing**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vanika-d-660a36238/" target="_blank">
+    LinkedIn
+  </a>
+  ·
+  <a href="https://github.com/vanika02" target="_blank">
+    GitHub
+  </a>
+  ·
+  <a href="mailto:vanikadangi02@gmail.com">
+    Email
+  </a>
+</p>
