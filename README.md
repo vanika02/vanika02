@@ -121,10 +121,21 @@ Multi-user service platform with role-based workflows, administration, professio
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vanika02&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/vanika02/vanika02/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/vanika02/vanika02/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/vanika02/vanika02/output/github-contribution-grid-snake.svg"
+      width="95%"
+      alt="GitHub contribution graph"
+    />
+  </picture>
 </p>
 
 ---
