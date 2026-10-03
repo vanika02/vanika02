@@ -90,7 +90,7 @@ Multi-user service platform with role-based workflows, administration, professio
 
 <p>
   <strong>Backend & Databases</strong><br>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -120,28 +120,8 @@ Multi-user service platform with role-based workflows, administration, professio
   />
 </p>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/vanika02/vanika02/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/vanika02/vanika02/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/vanika02/vanika02/output/github-contribution-grid-snake.svg"
-      width="95%"
-      alt="GitHub contribution graph"
-    />
-  </picture>
-</p>
-
 ---
 
 <p align="center">
   <sub>Building systems · understanding abstractions · improving through practice</sub>
 </p>
-
-
